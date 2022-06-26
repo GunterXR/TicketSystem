@@ -81,7 +81,7 @@ public class AdminController : Controller
     //Восстановить пользователя
     [Authorize(Roles="admin")]
     [HttpPost("api/admin/restore")]
-    public IActionResult ChangeUserRole([FromBody] RestoreModel model)
+    public IActionResult UserRestore([FromBody] RestoreModel model)
     {
         var users = context.Users.ToList(); 
         var userEmail = users.FirstOrDefault(x => x.Email == model.Email);

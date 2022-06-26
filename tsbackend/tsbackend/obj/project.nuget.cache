@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D0xH2LUfMTsclzdC1zFzBB1u1oY8IdZn50eO5/fdjgFW4qSEFgCI9iIJTVnIFVuIk/ErfhvDp17/Kn4xQCMnWA==",
+  "dgSpecHash": "iGjtq8g/i9UYwUDQeh2b2eeWckaSktPVOMpPlM4UV8T5EnQf77YVxptspe8F90jWg/E11z8gUKlxmwCt6fBObA==",
   "success": true,
-  "projectFilePath": "E:\\Diploma\\tsbackend\\tsbackend\\tsbackend.csproj",
+  "projectFilePath": "E:\\Programming\\Projects\\GitHub\\TicketSystem\\tsbackend\\tsbackend\\tsbackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stepa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\stepa\\.nuget\\packages\\mailkit\\3.3.0\\mailkit.3.3.0.nupkg.sha512",

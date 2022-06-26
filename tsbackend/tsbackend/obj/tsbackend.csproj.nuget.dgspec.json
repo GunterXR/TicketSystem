@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Diploma\\tsbackend\\tsbackend\\tsbackend.csproj": {}
+    "E:\\Programming\\Projects\\GitHub\\TicketSystem\\tsbackend\\tsbackend\\tsbackend.csproj": {}
   },
   "projects": {
-    "E:\\Diploma\\tsbackend\\tsbackend\\tsbackend.csproj": {
+    "E:\\Programming\\Projects\\GitHub\\TicketSystem\\tsbackend\\tsbackend\\tsbackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Diploma\\tsbackend\\tsbackend\\tsbackend.csproj",
+        "projectUniqueName": "E:\\Programming\\Projects\\GitHub\\TicketSystem\\tsbackend\\tsbackend\\tsbackend.csproj",
         "projectName": "tsbackend",
-        "projectPath": "E:\\Diploma\\tsbackend\\tsbackend\\tsbackend.csproj",
+        "projectPath": "E:\\Programming\\Projects\\GitHub\\TicketSystem\\tsbackend\\tsbackend\\tsbackend.csproj",
         "packagesPath": "C:\\Users\\stepa\\.nuget\\packages\\",
-        "outputPath": "E:\\Diploma\\tsbackend\\tsbackend\\obj\\",
+        "outputPath": "E:\\Programming\\Projects\\GitHub\\TicketSystem\\tsbackend\\tsbackend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
